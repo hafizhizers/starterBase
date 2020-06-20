@@ -6,3 +6,4 @@ export const TRANSPARENT = 'transparent';
 export const TEXT_PRIMARY = '#445c6d';
 export const INPUT_TEXT_PRIMARY = '#323232';
 export const GREY = '#808080';
+export const BLUE = '#0000FF';
