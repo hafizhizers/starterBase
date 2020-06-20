@@ -1,1 +1,1 @@
-# react-native-starter-base
+# starter base for react native
